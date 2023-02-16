@@ -16,8 +16,8 @@ namespace WOLtv
     {
 
         // Set the IP and MAC address of your TV
-        public String TvIpAddress = "192.168.0.28";
-        public String TvMacAddress = "64:CB:E9:8D:E8:7E";
+        public String TvIpAddress = "192.168.?.??";
+        public String TvMacAddress = "BB:00:44:11:EE:44"
 
         private HwndSource _HwndSource;
         private readonly IntPtr _ScreenStateNotify;
